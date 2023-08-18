@@ -7,6 +7,6 @@ import { Component, Input } from '@angular/core';
 })
 export class PageListComponent {
 
-  @Input() list:any = []
+  @Input() list: any = []
 
 }
